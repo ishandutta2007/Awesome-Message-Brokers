@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Message-Brokers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Message-Brokers?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Message-Brokers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Message-Brokers?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Message-Brokers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Message-Brokers?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Message-Brokers/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -70,101 +70,101 @@ All repositories below are **sorted in descending order by GitHub stargazers cou
 
 | 🏆 Project | 🌟 GitHub Stargazers Badge | 📜 License | 🛠️ Implementation Language | 🔑 Primary Messaging Specialty |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. [Apache Kafka](https://github.com/apache/kafka)** | [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) | Apache-2.0 | Java / Scala | High-throughput distributed append-only event streaming &amp; replay |
-| **2. [Apache RocketMQ](https://github.com/apache/rocketmq)** | [![GitHub stars](https://img.shields.io/github/stars/apache/rocketmq?style=social&color=white)](https://github.com/apache/rocketmq/stargazers) | Apache-2.0 | Java | Ultra-low latency financial messaging, scheduled delays &amp; transaction queues |
-| **3. [NATS Server](https://github.com/nats-io/nats-server)** | [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers) | Apache-2.0 | Go | Cloud-native pub/sub, sub-millisecond request-reply &amp; JetStream persistence |
-| **4. [EMQX](https://github.com/emqx/emqx)** | [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers) | Apache-2.0 | Erlang / Elixir | Massive-scale IoT MQTT 5.0 broker supporting 100M+ concurrent client connections |
-| **5. [Apache Pulsar](https://github.com/apache/pulsar)** | [![GitHub stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers) | Apache-2.0 | Java | Segment-centric streaming with BookKeeper separated storage &amp; tiered retention |
-| **6. [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)** | [![GitHub stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers) | MPL-2.0 | Erlang | Highly flexible AMQP routing, Raft-backed quorum queues &amp; task worker queuing |
-| **7. [Redpanda](https://github.com/redpanda-data/redpanda)** | [![GitHub stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers) | BSL 1.1 / Apache-2.0 | C++ (Seastar) | C++ Kafka-compatible engine, zero JVM/GC overhead &amp; integrated Raft consensus |
-| **8. [Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** | [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers) | EPL-2.0 / EDL-1.0 | C | Extremely lightweight MQTT 5.0/3.1.1 broker for embedded hardware &amp; home automation |
-| **9. [ZeroMQ (libzmq)](https://github.com/zeromq/libzmq)** | [![GitHub stars](https://img.shields.io/github/stars/zeromq/libzmq?style=social&color=white)](https://github.com/zeromq/libzmq/stargazers) | MPL-2.0 | C++ | Brokerless socket library, microsecond IPC/TCP in-process message fabrics |
-| **10. [Memphis.dev](https://github.com/memphisdev/memphis)** | [![GitHub stars](https://img.shields.io/github/stars/memphisdev/memphis?style=social&color=white)](https://github.com/memphisdev/memphis/stargazers) | BSL 1.1 / Apache-2.0 | Go | Modern developer-first streaming message broker with integrated schema validation |
-| **11. [NanoMQ](https://github.com/nanomq/nanomq)** | [![GitHub stars](https://img.shields.io/github/stars/nanomq/nanomq?style=social&color=white)](https://github.com/nanomq/nanomq/stargazers) | MIT | C | Blazing-fast edge MQTT broker for automotive SDVs, robotics &amp; industrial IoT |
-| **12. [Apache ActiveMQ](https://github.com/apache/activemq)** | [![GitHub stars](https://img.shields.io/github/stars/apache/activemq?style=social&color=white)](https://github.com/apache/activemq/stargazers) | Apache-2.0 | Java | Veteran enterprise JMS 1.1/2.0 broker with OpenWire, STOMP &amp; AMQP multi-protocol |
+| **1. [Apache Kafka](https://github.com/apache/kafka)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) | Apache-2.0 | Java / Scala | High-throughput distributed append-only event streaming &amp; replay |
+| **2. [Apache RocketMQ](https://github.com/apache/rocketmq)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/rocketmq?style=social&color=white)](https://github.com/apache/rocketmq/stargazers) | Apache-2.0 | Java | Ultra-low latency financial messaging, scheduled delays &amp; transaction queues |
+| **3. [NATS Server](https://github.com/nats-io/nats-server)** | [![GitHub_Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers) | Apache-2.0 | Go | Cloud-native pub/sub, sub-millisecond request-reply &amp; JetStream persistence |
+| **4. [EMQX](https://github.com/emqx/emqx)** | [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers) | Apache-2.0 | Erlang / Elixir | Massive-scale IoT MQTT 5.0 broker supporting 100M+ concurrent client connections |
+| **5. [Apache Pulsar](https://github.com/apache/pulsar)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers) | Apache-2.0 | Java | Segment-centric streaming with BookKeeper separated storage &amp; tiered retention |
+| **6. [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)** | [![GitHub_Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers) | MPL-2.0 | Erlang | Highly flexible AMQP routing, Raft-backed quorum queues &amp; task worker queuing |
+| **7. [Redpanda](https://github.com/redpanda-data/redpanda)** | [![GitHub_Stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers) | BSL 1.1 / Apache-2.0 | C++ (Seastar) | C++ Kafka-compatible engine, zero JVM/GC overhead &amp; integrated Raft consensus |
+| **8. [Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** | [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers) | EPL-2.0 / EDL-1.0 | C | Extremely lightweight MQTT 5.0/3.1.1 broker for embedded hardware &amp; home automation |
+| **9. [ZeroMQ (libzmq)](https://github.com/zeromq/libzmq)** | [![GitHub_Stars](https://img.shields.io/github/stars/zeromq/libzmq?style=social&color=white)](https://github.com/zeromq/libzmq/stargazers) | MPL-2.0 | C++ | Brokerless socket library, microsecond IPC/TCP in-process message fabrics |
+| **10. [Memphis.dev](https://github.com/memphisdev/memphis)** | [![GitHub_Stars](https://img.shields.io/github/stars/memphisdev/memphis?style=social&color=white)](https://github.com/memphisdev/memphis/stargazers) | BSL 1.1 / Apache-2.0 | Go | Modern developer-first streaming message broker with integrated schema validation |
+| **11. [NanoMQ](https://github.com/nanomq/nanomq)** | [![GitHub_Stars](https://img.shields.io/github/stars/nanomq/nanomq?style=social&color=white)](https://github.com/nanomq/nanomq/stargazers) | MIT | C | Blazing-fast edge MQTT broker for automotive SDVs, robotics &amp; industrial IoT |
+| **12. [Apache ActiveMQ](https://github.com/apache/activemq)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/activemq?style=social&color=white)](https://github.com/apache/activemq/stargazers) | Apache-2.0 | Java | Veteran enterprise JMS 1.1/2.0 broker with OpenWire, STOMP &amp; AMQP multi-protocol |
 
 ---
 
 ### 🔍 In-Depth Open-Source Engine Profiles
 
-#### 1. [Apache Kafka](https://github.com/apache/kafka) [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
+#### 1. [Apache Kafka](https://github.com/apache/kafka) [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
 - **Architecture**: Distributed, partitioned, replicated append-only commit log.
 - **Key Milestones**: **Kafka 4.0 removed ZooKeeper entirely**, running exclusively on the high-performance **KRaft (Kafka Raft)** metadata consensus protocol. Introduced next-generation consumer group rebalancing (KIP-848), drastically reducing partition rebalance pause times. Requires Java 17+ for brokers and Kafka Connect.
 - **Strengths**: Unmatched throughput (millions of events/sec), long-term replayability, rich ecosystem (Kafka Connect, Kafka Streams, Schema Registry, ksqlDB).
 - **Trade-offs**: High operational footprint, partition limits per cluster, consumer rebalance sensitivity.
 - **Best For**: Centralized enterprise event streaming backbones, CDC (Change Data Capture) pipelines, financial audit logs, and analytics ingestion.
 
-#### 2. [Apache RocketMQ](https://github.com/apache/rocketmq) [![GitHub stars](https://img.shields.io/github/stars/apache/rocketmq?style=social&color=white)](https://github.com/apache/rocketmq/stargazers)
+#### 2. [Apache RocketMQ](https://github.com/apache/rocketmq) [![GitHub_Stars](https://img.shields.io/github/stars/apache/rocketmq?style=social&color=white)](https://github.com/apache/rocketmq/stargazers)
 - **Architecture**: Cloud-native distributed messaging and streaming platform designed for enterprise transactional integrity.
 - **Key Capabilities**: RocketMQ 5.0 separates stateless compute (proxy) from storage, supporting scheduled/delayed messages up to 40 days, ordered messages, FIFO delivery, and two-phase distributed transactions.
 - **Strengths**: Proven under extreme peak traffic (Alibaba Singles' Day handling trillions of daily events), built-in delay queues, and robust transaction state rollback.
 - **Trade-offs**: Primarily Java-centric client tooling; smaller Western community compared to Kafka.
 - **Best For**: E-commerce checkouts, payment processing, transactional messaging, and scheduled business workflows.
 
-#### 3. [NATS Server (JetStream)](https://github.com/nats-io/nats-server) [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers)
+#### 3. [NATS Server (JetStream)](https://github.com/nats-io/nats-server) [![GitHub_Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers)
 - **Architecture**: Single-binary Go server supporting publish/subscribe, distributed request-reply, key-value storage, and JetStream persistence.
 - **Key Capabilities**: Ultra-low latency (<100 microseconds core pub/sub), zero external dependencies, subject-based routing with wildcards, decentralized clustering (Leaf Nodes, Superclusters).
 - **Strengths**: Incredibly simple operations (single ~30 MB executable), multi-tenant account security, built-in deduplication and stream replay.
 - **Trade-offs**: In-flight message redeliveries can reorder messages; smaller pre-built connector ecosystem compared to Kafka.
 - **Best For**: Microservice control planes, Kubernetes inter-service messaging, edge-to-cloud synchronization, and low-latency API backbones.
 
-#### 4. [EMQX](https://github.com/emqx/emqx) [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
+#### 4. [EMQX](https://github.com/emqx/emqx) [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
 - **Architecture**: Erlang/BEAM-powered massively distributed MQTT broker.
 - **Key Capabilities**: Fully compliant with MQTT 5.0 and 3.1.1, QUIC protocol support for unstable wireless links, built-in SQL-based rule engine for routing telemetry directly to databases and Kafka.
 - **Strengths**: Scales up to 100 million concurrent MQTT client connections per cluster; sub-millisecond message delivery at scale.
 - **Trade-offs**: Tailored specifically for IoT/telemetry semantics; not a replacement for general worker task queues or distributed commit logs.
 - **Best For**: Connected vehicle fleets, industrial IoT (IIoT), smart metering, connected healthcare devices, and smart cities.
 
-#### 5. [Apache Pulsar](https://github.com/apache/pulsar) [![GitHub stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)
+#### 5. [Apache Pulsar](https://github.com/apache/pulsar) [![GitHub_Stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)
 - **Architecture**: Tiered architecture physically decoupling stateless serving brokers from stateful storage nodes (**Apache BookKeeper**).
 - **Key Capabilities**: Seamless multi-tenancy with quotas and access policies, native cross-datacenter geo-replication, tiered storage moving cold data to Amazon S3/Google Cloud Storage transparently, and unified queuing/streaming models.
 - **Strengths**: No partition rebalance downtime when adding brokers; practically unlimited topic capacity; elastic scaling.
 - **Trade-offs**: Operational complexity (must monitor and operate both Pulsar brokers and BookKeeper bookies).
 - **Best For**: Multi-tenant cloud SaaS backends, global multi-region active-active messaging, and cost-optimized long-term retention.
 
-#### 6. [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) [![GitHub stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)
+#### 6. [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) [![GitHub_Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)
 - **Architecture**: Erlang/OTP messaging broker based on exchanges, bindings, and queues with pluggable protocols.
 - **Key Capabilities**: **RabbitMQ 4.3** enforces Raft-backed Quorum Queues as the production standard (classic mirrored queues removed). RabbitMQ 4.2+ added native AMQP 1.0 support, Khepri Raft metadata store, and append-only RabbitMQ Streams for Kafka-like message replay.
 - **Strengths**: Extremely flexible routing (direct, fanout, topic, headers), fine-grained delivery acknowledgments, rich Web UI and management plugin.
 - **Trade-offs**: Lower raw throughput ceiling compared to Kafka/Redpanda; memory sensitive under heavy queue accumulation.
 - **Best For**: Background worker task queues (Celery, Sidekiq), transactional order routing, and enterprise AMQP 1.0/0-9-1 integrations.
 
-#### 7. [Redpanda](https://github.com/redpanda-data/redpanda) [![GitHub stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers)
+#### 7. [Redpanda](https://github.com/redpanda-data/redpanda) [![GitHub_Stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers)
 - **Architecture**: Modern Kafka API-compatible event streaming platform engineered in C++ using the Seastar thread-per-core asynchronous framework.
 - **Key Capabilities**: 100% compatible with Kafka client libraries, Kafka Connect, and ecosystem tools. Built-in Raft consensus with zero ZooKeeper/JVM requirements. Built-in Schema Registry and HTTP Proxy.
 - **Strengths**: 10x lower tail latencies (p99) than JVM Kafka, deterministic performance, rapid cluster bootstrapping, and lower cloud compute costs.
 - **Trade-offs**: Source-available BSL license for certain enterprise features (Data Transforms, Tiered Storage).
 - **Best For**: Kafka drop-in replacements requiring predictable low tail latencies, real-time AI feature stores, and simplified DevOps operations.
 
-#### 8. [Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto) [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)
+#### 8. [Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto) [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)
 - **Architecture**: Lightweight single-threaded C daemon implementing MQTT protocol versions 5.0, 3.1.1, and 3.1.
 - **Key Capabilities**: TLS/SSL encryption, client certificate authentication, bridging across multiple Mosquitto brokers, and minimal RAM footprint (<10 MB).
 - **Strengths**: Ubiquitous compatibility, rock-solid stability, runs smoothly on Raspberry Pi, OpenWrt routers, and constrained microcontrollers.
 - **Trade-offs**: Single-threaded core architecture means it cannot natively scale to hundreds of thousands of connections on a single multicore node without clustering wrappers.
 - **Best For**: Home Assistant / smart home setups, hobbyist robotics, single-site industrial sensors, and embedded Linux edge gateways.
 
-#### 9. [ZeroMQ (libzmq)](https://github.com/zeromq/libzmq) [![GitHub stars](https://img.shields.io/github/stars/zeromq/libzmq?style=social&color=white)](https://github.com/zeromq/libzmq/stargazers)
+#### 9. [ZeroMQ (libzmq)](https://github.com/zeromq/libzmq) [![GitHub_Stars](https://img.shields.io/github/stars/zeromq/libzmq?style=social&color=white)](https://github.com/zeromq/libzmq/stargazers)
 - **Architecture**: Brokerless, socket-style asynchronous messaging library giving you message-passing sockets over in-process (INPROC), IPC, TCP, and PGM multicast.
 - **Key Capabilities**: Implements patterns like PUB/SUB, PUSH/PULL, REQ/REP, and ROUTER/DEALER directly inside the application binary without an intermediate daemon process.
 - **Strengths**: Ultra-low microsecond latency, zero broker bottleneck, zero serialized network hops for local IPC.
 - **Trade-offs**: No built-in message persistence or durable replay; application code must manage cluster membership and recovery.
 - **Best For**: High-frequency trading (HFT), scientific simulations, video game multi-process IPC, and low-latency robotics.
 
-#### 10. [Memphis.dev](https://github.com/memphisdev/memphis) [![GitHub stars](https://img.shields.io/github/stars/memphisdev/memphis?style=social&color=white)](https://github.com/memphisdev/memphis/stargazers)
+#### 10. [Memphis.dev](https://github.com/memphisdev/memphis) [![GitHub_Stars](https://img.shields.io/github/stars/memphisdev/memphis?style=social&color=white)](https://github.com/memphisdev/memphis/stargazers)
 - **Architecture**: Developer-centric next-generation message broker built on top of NATS JetStream and Go.
 - **Key Capabilities**: Instant visual UI for managing schemas (Protobuf, JSON Schema, Avro), automated dead-letter queues (DLQ), and integrated serverless stream transformations.
 - **Strengths**: 5-minute setup, intuitive graphical dashboard, frictionless developer ergonomics, and native real-time data sanitation.
 - **Trade-offs**: Relatively young ecosystem compared to Kafka or RabbitMQ.
 - **Best For**: Fast-moving engineering teams wanting Kafka-level capabilities with minimal configuration and built-in schema validation.
 
-#### 11. [NanoMQ](https://github.com/nanomq/nanomq) [![GitHub stars](https://img.shields.io/github/stars/nanomq/nanomq?style=social&color=white)](https://github.com/nanomq/nanomq/stargazers)
+#### 11. [NanoMQ](https://github.com/nanomq/nanomq) [![GitHub_Stars](https://img.shields.io/github/stars/nanomq/nanomq?style=social&color=white)](https://github.com/nanomq/nanomq/stargazers)
 - **Architecture**: Ultra-lightweight actor-model asynchronous C-based MQTT broker optimized for multi-core edge processors.
 - **Key Capabilities**: Built-in edge data bridge to AWS IoT and EMQX, zero-copy message routing, POSIX compliant, supporting DDS (Data Distribution Service) and MQTT over QUIC.
 - **Strengths**: Sub-megabyte binary footprint, multi-threaded parallelism, ultra-low CPU consumption on embedded ARM/RISC-V chips.
 - **Trade-offs**: Designed primarily for local edge routing rather than central multi-datacenter cluster aggregation.
 - **Best For**: Software-Defined Vehicles (SDV), automotive gateways, robotics control loops, and edge industrial computers.
 
-#### 12. [Apache ActiveMQ](https://github.com/apache/activemq) [![GitHub stars](https://img.shields.io/github/stars/apache/activemq?style=social&color=white)](https://github.com/apache/activemq/stargazers)
+#### 12. [Apache ActiveMQ](https://github.com/apache/activemq) [![GitHub_Stars](https://img.shields.io/github/stars/apache/activemq?style=social&color=white)](https://github.com/apache/activemq/stargazers)
 - **Architecture**: Enterprise multi-protocol messaging server implementing JMS 1.1 and 2.0 (Classic) along with the non-blocking next-generation **ActiveMQ Artemis**.
 - **Key Capabilities**: Support for OpenWire, AMQP 1.0, STOMP, MQTT, and HornetQ protocols; comprehensive message filtering with SQL-92 selectors.
 - **Strengths**: Battle-tested legacy enterprise compatibility, deep integration with Spring Framework and Java EE application servers.
