@@ -1,6 +1,6 @@
 # Awesome-Message-Brokers
 
-# Top Message Brokers Ecosystem
+## Top Message Brokers Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AMQP 1.0, KRaft-Only Kafka & Single-Binary Lightweight Brokers*  
